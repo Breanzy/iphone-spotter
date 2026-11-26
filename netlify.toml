@@ -1,0 +1,9 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Phone Assets never change once imported, so let browsers cache them for a long time.
+[[headers]]
+  for = "/assets/*.glb"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"

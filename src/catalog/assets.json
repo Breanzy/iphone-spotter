@@ -1,0 +1,647 @@
+[
+  {
+    "phoneId": "iphone-4",
+    "file": "assets/iphone-4.glb",
+    "credit": {
+      "creator": "MickeyFan1928",
+      "sourceUrl": "https://sketchfab.com/3d-models/apple-iphone-4-my-2017-model-68dd05c7ac9c4ff5b33ea8d42e9f61b3",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 180,
+    "nativeFinish": "Black"
+  },
+  {
+    "phoneId": "iphone-x",
+    "file": "assets/iphone-x.glb",
+    "credit": {
+      "creator": "张鑫",
+      "sourceUrl": "https://sketchfab.com/3d-models/iphone-x-875c17326e1f47678397e4327e410c04",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [
+      "material"
+    ],
+    "yawDeg": 0,
+    "rollDeg": 0
+  },
+  {
+    "phoneId": "iphone-15-pro",
+    "file": "assets/iphone-15-pro.glb",
+    "credit": {
+      "creator": "rtql8d",
+      "sourceUrl": "https://sketchfab.com/3d-models/iphone-15-pro-21a243ccceb64a4da8c0f622dcb935d3",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Natural Titanium"
+  },
+  {
+    "phoneId": "iphone-4s",
+    "file": "assets/iphone-4s.glb",
+    "credit": {
+      "creator": "EwanLejkowski",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-cdae5d59cc60402e800ce7ca23ac42d6",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 270,
+    "rollDeg": 0,
+    "nativeFinish": "Black"
+  },
+  {
+    "phoneId": "iphone-5",
+    "file": "assets/iphone-5.glb",
+    "credit": {
+      "creator": "Res1n",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-921e525dd79c41f0a41646ef7ecc31b7",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Black & Slate"
+  },
+  {
+    "phoneId": "iphone-5c",
+    "file": "assets/iphone-5c.glb",
+    "credit": {
+      "creator": "4DS Artwork",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-5290072182ff4d518ea10c074201c5d8",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 180,
+    "nativeFinish": "Blue"
+  },
+  {
+    "phoneId": "iphone-5s",
+    "file": "assets/iphone-5s.glb",
+    "credit": {
+      "creator": "Eternal Realm",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-2a8b3bd5333d4f1899a67d5dca6b24ab",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-6",
+    "file": "assets/iphone-6.glb",
+    "credit": {
+      "creator": "Bubuvar",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-40cf45418e184be785f097209070bff7",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Space Gray"
+  },
+  {
+    "phoneId": "iphone-6s",
+    "file": "assets/iphone-6s.glb",
+    "credit": {
+      "creator": "DineshThennarasan",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-eceb31099fef4534a843091eb44a9bc2",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-6s-plus",
+    "file": "assets/iphone-6s-plus.glb",
+    "credit": {
+      "creator": "pierodetomi",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-dae0bf3d90ca420796ea4f524f689882",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-7-plus",
+    "file": "assets/iphone-7-plus.glb",
+    "credit": {
+      "creator": "VrStore",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-dbbdc09a59194c1cba603cf26cd9480d",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Rose Gold"
+  },
+  {
+    "phoneId": "iphone-8-plus",
+    "file": "assets/iphone-8-plus.glb",
+    "credit": {
+      "creator": "VrStore",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-b323bf6a8f764d10a19930558df8aa32",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-xr",
+    "file": "assets/iphone-xr.glb",
+    "credit": {
+      "creator": "VrStore",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-d68ec988ce7841f98731b6bbd73ca976",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "(PRODUCT)RED"
+  },
+  {
+    "phoneId": "iphone-xs",
+    "file": "assets/iphone-xs.glb",
+    "credit": {
+      "creator": "Carlos.Maciel",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-3a0d9762a20849c0b3e8e08b947d2114",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Space Gray"
+  },
+  {
+    "phoneId": "iphone-xs-max",
+    "file": "assets/iphone-xs-max.glb",
+    "credit": {
+      "creator": "sriniwasj",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-08e76b5bd30847f6a23d4748b85ef62b",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 180,
+    "nativeFinish": "Space Gray"
+  },
+  {
+    "phoneId": "iphone-11",
+    "file": "assets/iphone-11.glb",
+    "credit": {
+      "creator": "atom",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-558b8e99bbd4483b9bb2182d8dc72de2",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Purple"
+  },
+  {
+    "phoneId": "iphone-11-pro",
+    "file": "assets/iphone-11-pro.glb",
+    "credit": {
+      "creator": "polyman Studio",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-5e058add447046afba171eb8e8ae5d5a",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Midnight Green"
+  },
+  {
+    "phoneId": "iphone-se-2",
+    "file": "assets/iphone-se-2.glb",
+    "credit": {
+      "creator": "VrStore",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-1d93190c27cf4bccacda229997336484",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Black"
+  },
+  {
+    "phoneId": "iphone-12-mini",
+    "file": "assets/iphone-12-mini.glb",
+    "credit": {
+      "creator": "tswier",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-74c4167debed4390871af8527d369de6",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "White"
+  },
+  {
+    "phoneId": "iphone-12-pro",
+    "file": "assets/iphone-12-pro.glb",
+    "credit": {
+      "creator": "DatSketch",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-05dfc991665e45c68c8b7062136c0c6e",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-13-mini",
+    "file": "assets/iphone-13-mini.glb",
+    "credit": {
+      "creator": "VrStore",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-7d0a8b5f13e146ea8be2bcb68e4c7857",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Starlight"
+  },
+  {
+    "phoneId": "iphone-13",
+    "file": "assets/iphone-13.glb",
+    "credit": {
+      "creator": "rtql8d",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-ea2eac54b309470f9c9231e139300189",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Pink"
+  },
+  {
+    "phoneId": "iphone-13-pro",
+    "file": "assets/iphone-13-pro.glb",
+    "credit": {
+      "creator": "DatSketch",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-0c34a039d50e42f4b46738ec26929c15",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Sierra Blue"
+  },
+  {
+    "phoneId": "iphone-13-pro-max",
+    "file": "assets/iphone-13-pro-max.glb",
+    "credit": {
+      "creator": "DatSketch",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-4328dea00e47497dbeac73c556121bc9",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Sierra Blue"
+  },
+  {
+    "phoneId": "iphone-14",
+    "file": "assets/iphone-14.glb",
+    "credit": {
+      "creator": "polyman Studio",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-6022f78c93664f9d9e67af0f8090ae68",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "(PRODUCT)RED"
+  },
+  {
+    "phoneId": "iphone-14-plus",
+    "file": "assets/iphone-14-plus.glb",
+    "credit": {
+      "creator": "polyman Studio",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-7f11790cf06245a98081d1ed49c8e988",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Starlight"
+  },
+  {
+    "phoneId": "iphone-14-pro",
+    "file": "assets/iphone-14-pro.glb",
+    "credit": {
+      "creator": "Ciasny",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-775e68d5d1a44b6c849ac25587707cd2",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Deep Purple"
+  },
+  {
+    "phoneId": "iphone-14-pro-max",
+    "file": "assets/iphone-14-pro-max.glb",
+    "credit": {
+      "creator": "akshatmittal",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-95f11f5a06604c8b9fd44046ae52a9cc",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Deep Purple"
+  },
+  {
+    "phoneId": "iphone-15-plus",
+    "file": "assets/iphone-15-plus.glb",
+    "credit": {
+      "creator": "UnknownOrigin",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-6b175db297334603a84c7661db7ca0e9",
+      "license": "Free Standard"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Blue"
+  },
+  {
+    "phoneId": "iphone-15-pro-max",
+    "file": "assets/iphone-15-pro-max.glb",
+    "credit": {
+      "creator": "MajdyModels",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-5b7b35513a154ac69619dc2b2fe15686",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [
+      "backpanel",
+      "metalframe"
+    ],
+    "yawDeg": 0,
+    "rollDeg": 0
+  },
+  {
+    "phoneId": "iphone-16",
+    "file": "assets/iphone-16.glb",
+    "credit": {
+      "creator": "EV_car2013",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-c7f900aa7ac547a487f1ba3082dac96a",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Teal"
+  },
+  {
+    "phoneId": "iphone-16-plus",
+    "file": "assets/iphone-16-plus.glb",
+    "credit": {
+      "creator": "Sketcher",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-e8f73763eaca400095df6e4a6153ae82",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Teal"
+  },
+  {
+    "phoneId": "iphone-16-pro",
+    "file": "assets/iphone-16-pro.glb",
+    "credit": {
+      "creator": "EV_car2013",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-cf67c1ae65894ff490f6996985d1b237",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Desert Titanium"
+  },
+  {
+    "phoneId": "iphone-16-pro-max",
+    "file": "assets/iphone-16-pro-max.glb",
+    "credit": {
+      "creator": "MajdyModels",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-41a071ae12794b668502f58d1e0fd1a3",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 90,
+    "rollDeg": 0,
+    "nativeFinish": "Black Titanium"
+  },
+  {
+    "phoneId": "iphone-air",
+    "file": "assets/iphone-air.glb",
+    "credit": {
+      "creator": "Ranguel",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-055022b853aa4c6cb25cc6979178e719",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 270,
+    "rollDeg": 0,
+    "nativeFinish": "Cloud White"
+  },
+  {
+    "phoneId": "iphone-17-pro",
+    "file": "assets/iphone-17-pro.glb",
+    "credit": {
+      "creator": "Ranguel",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-4541aa8a28324b33a2baaf81d263aaec",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Silver"
+  },
+  {
+    "phoneId": "iphone-17-pro-max",
+    "file": "assets/iphone-17-pro-max.glb",
+    "credit": {
+      "creator": "asimjamil182",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-4dab6c157cd84ababab369eee9f1c3e8",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Cosmic Orange"
+  },
+  {
+    "phoneId": "iphone-7",
+    "file": "assets/iphone-7.glb",
+    "credit": {
+      "creator": "Eternal",
+      "sourceUrl": "Realm",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "(PRODUCT)RED"
+  },
+  {
+    "phoneId": "iphone-8",
+    "file": "assets/iphone-8.glb",
+    "credit": {
+      "creator": "felixhumphrys0209",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-143bd31fd48b4d88a31d05c7ea0770b0",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 0,
+    "nativeFinish": "Space Gray"
+  },
+  {
+    "phoneId": "iphone-15",
+    "file": "assets/iphone-15.glb",
+    "credit": {
+      "creator": "namamae e",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-b5c42a74ec8b4a5cb2b0790228d5454d",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Green"
+  },
+  {
+    "phoneId": "iphone-11-pro-max",
+    "file": "assets/iphone-11-pro-max.glb",
+    "credit": {
+      "creator": "jeilocreativedesignworld",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-b6b53a793b7e40c091a4758d4dafb73f",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Gold"
+  },
+  {
+    "phoneId": "iphone-se-1",
+    "file": "assets/iphone-se-1.glb",
+    "credit": {
+      "creator": "TAIGA-ZOE",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-11bad74e635144b0a8cd739b03e7dd19",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Space Gray"
+  },
+  {
+    "phoneId": "iphone-se-3",
+    "file": "assets/iphone-se-3.glb",
+    "credit": {
+      "creator": "SCD PERFORMANCE™️",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-3af0814f9b5a4e38a1564b6bf74f9a58",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 0,
+    "rollDeg": 0,
+    "nativeFinish": "Midnight"
+  },
+  {
+    "phoneId": "iphone-16e",
+    "file": "assets/iphone-16e.glb",
+    "credit": {
+      "creator": "EV_car2013",
+      "sourceUrl": "https://sketchfab.com/3d-models/none-b38579c4ce9942748bf66c71a8241b6c",
+      "license": "CC-BY-4.0"
+    },
+    "bodyMaterials": [],
+    "yawDeg": 180,
+    "rollDeg": 180,
+    "nativeFinish": "White"
+  },
+  {
+    "phoneId": "iphone-12",
+    "file": "assets/iphone-12.glb",
+    "credit": {
+      "creator": "김대식",
+      "sourceUrl": "https://grabcad.com/library/iphone-12-4-types-1",
+      "license": "GrabCAD Community terms"
+    },
+    "bodyMaterials": [
+      "Body"
+    ],
+    "yawDeg": 0,
+    "rollDeg": 0
+  },
+  {
+    "phoneId": "iphone-12-pro-max",
+    "file": "assets/iphone-12-pro-max.glb",
+    "credit": {
+      "creator": "Ben Zeeman",
+      "sourceUrl": "https://grabcad.com/library/iphone-12-pro-max-4",
+      "license": "GrabCAD Community terms"
+    },
+    "bodyMaterials": [
+      "Body"
+    ],
+    "yawDeg": 180,
+    "rollDeg": 180
+  },
+  {
+    "phoneId": "iphone-6-plus",
+    "file": "assets/iphone-6-plus.glb",
+    "credit": {
+      "creator": "Terry Marrie",
+      "sourceUrl": "https://grabcad.com/library/iphone-6-plus-23",
+      "license": "GrabCAD Community terms"
+    },
+    "bodyMaterials": [
+      "Body"
+    ],
+    "yawDeg": 90,
+    "rollDeg": 180
+  },
+  {
+    "phoneId": "iphone-3gs",
+    "file": "assets/iphone-3gs.glb",
+    "credit": {
+      "creator": "Cemal Uslu",
+      "sourceUrl": "https://grabcad.com/library/iphone-3gs",
+      "license": "GrabCAD Community terms"
+    },
+    "bodyMaterials": [
+      "Body"
+    ],
+    "yawDeg": 180,
+    "rollDeg": 0
+  },
+  {
+    "phoneId": "iphone-17",
+    "file": "assets/iphone-17.glb",
+    "credit": {
+      "creator": "Harry Vu",
+      "sourceUrl": "https://grabcad.com/library/iphone-17-series-1",
+      "license": "GrabCAD Community terms"
+    },
+    "bodyMaterials": [
+      "Body"
+    ],
+    "yawDeg": 180,
+    "rollDeg": 180
+  }
+]
